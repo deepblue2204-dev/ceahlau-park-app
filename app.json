@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "d3761231-d243-4dde-b55f-cc976401df5e"
+      }
+    },
+    "android": {
+      "package": "com.deepblue2204.ceahlauapp"
+    }
+  }
+}

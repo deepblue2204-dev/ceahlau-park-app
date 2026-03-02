@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "expo start --dev-client",
+    "android": "expo run:android",
+    "ios": "expo run:ios"
   },
   "keywords": [],
   "author": "",
@@ -15,6 +18,12 @@
     "expo-cli": "^6.3.12",
     "metro": "^0.84.2",
     "metro-core": "^0.84.2",
-    "react-native": "^0.84.1"
+    "react-native": "0.72.10",
+    "expo-splash-screen": "~0.20.5",
+    "expo-status-bar": "~1.6.0",
+    "react": "18.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
   }
 }
