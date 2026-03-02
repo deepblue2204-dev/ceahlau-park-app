@@ -1,0 +1,20 @@
+{
+  "name": "ceahlauapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "expo": "^49.0.23",
+    "expo-cli": "^6.3.12",
+    "metro": "^0.84.2",
+    "metro-core": "^0.84.2",
+    "react-native": "^0.84.1"
+  }
+}
